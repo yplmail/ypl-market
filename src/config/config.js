@@ -8,7 +8,7 @@ define(function(require, exports, module) {
     var host = {
         __ENV__ : 'pre.toobei.com',  // 默认本是 dev.toobei.com ，但环境不通过
         pre     : 'pre.toobei.com',                   
-        produce : 'www.toobei.com'    
+        produce : 'pre.toobei.com'    
     }
 
     var imgHost = {
